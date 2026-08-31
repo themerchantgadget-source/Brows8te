@@ -1,0 +1,7 @@
+{
+  "name": "Google AI Studio",
+  "description": "A web-based prototyping environment for developers to experiment with Gemini models, system instructions, temperature, search grounding, code execution, and export code in multiple SDKs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
